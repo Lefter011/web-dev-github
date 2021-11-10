@@ -1,3 +1,7 @@
-This is again 555123456677888 a comit!
+<<<<<<< HEAD
+This is again a comit!
+=======
+This is again a comit!
+>>>>>>> feaature
 
 And here we go with comit #2
